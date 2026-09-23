@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this virtual lab, please cite it as below."
 authors:
 - family-names: Greuell
-  given-names: 
+  given-names: Koen
   orcid: 0009-0008-7137-5877
 title: vl-content-with-copier
 version: 1.0.0
-url: https://beta.naavre.net/vreapp/vl/
+url: https://beta.naavre.net/vreapp/vl/content-copier
