@@ -1,6 +1,9 @@
 # Changes here will be overwritten by Copier
-_commit: v0.0.7
+_commit: v0.0.8
 _src_path: https://github.com/KoenGreuell/vl-template-with-copier.git
-development_plan: false
-module_name: modie
-project_name: test1
+development_plan: true
+vl_abbreviaion: copier-content
+vl_name: vl-content-with-copier
+vl_owner_forename: Koen
+vl_owner_orcid: 0009-0008-7137-5877
+vl_owner_surname: Greuell
