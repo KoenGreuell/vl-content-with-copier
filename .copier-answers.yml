@@ -1,10 +1,23 @@
 # Changes here will be overwritten by Copier
-_commit: v0.0.10
+_commit: v0.0.10-4-gcc5da2e
 _src_path: https://github.com/KoenGreuell/vl-template-with-copier.git
 development_plan: true
-maturity_level_1: true
-metadata_available: false
+maturity_level_1: false
+maturity_level_2: false
 vl_abbreviation: content-copier
+vl_description: The airspace is becoming increasingly crowded. High-rises, wind farms
+    and airports all contribute to conflict with aerial organisms. Information about
+    the movements of organisms in the air is required to identify stop-over sites,
+    migratory routes, and patterns. This can inform mitigation of conflicts by, for
+    example, wind-turbine curtailments or early warning systems for aviation. Weather
+    radars, that continuously monitor the sky across continents, can be used to study
+    movements of birds, bats, and insects. However, for continental scale analysis,
+    large volumes of data are required to be processed and analyzed, which often rely
+    on institute-specific tools and computational resources. This severely hampers
+    collaborative efforts because of the initial investment of time and resources
+    to gain access to existing computing infrastructure. The Radar Aeroecology Virtual
+    Lab (RAVL) facilitates collaboration and re-use of infrastructure and tools
+vl_keywords: item1, item2, item3
 vl_name: vl-content-with-copier
 vl_owner_forename: Koen
 vl_owner_orcid: 0009-0008-7137-5877
