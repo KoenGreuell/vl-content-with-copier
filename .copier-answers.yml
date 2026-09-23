@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier
 _commit: v0.0.7
 _src_path: https://github.com/KoenGreuell/vl-template-with-copier.git
-development_plan: true
-module_name: mod1
+development_plan: false
+module_name: modie
 project_name: test1
